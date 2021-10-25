@@ -42,6 +42,5 @@ A princípio, nestas pastas terão documentos em texto que explica o que acontec
   
   
   
-0.0.21a
-=========================================================================================================================================================
-Descrição sujeita a alterações constantes. 
+Versão do readme :
+              0.0.21a
